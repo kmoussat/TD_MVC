@@ -1,0 +1,6 @@
+c:\users\ken\documents\visual studio 2015\Projects\MVC_XML\MVC_XML\bin\Debug\MVC_XML.exe.config
+c:\users\ken\documents\visual studio 2015\Projects\MVC_XML\MVC_XML\obj\Debug\MVC_XML.csprojResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2015\Projects\MVC_XML\MVC_XML\bin\Debug\MVC_XML.exe
+c:\users\ken\documents\visual studio 2015\Projects\MVC_XML\MVC_XML\bin\Debug\MVC_XML.pdb
+c:\users\ken\documents\visual studio 2015\Projects\MVC_XML\MVC_XML\obj\Debug\MVC_XML.exe
+c:\users\ken\documents\visual studio 2015\Projects\MVC_XML\MVC_XML\obj\Debug\MVC_XML.pdb

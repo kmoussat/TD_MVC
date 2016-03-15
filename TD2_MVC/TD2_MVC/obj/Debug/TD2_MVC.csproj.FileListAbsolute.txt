@@ -1,0 +1,7 @@
+c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\bin\Debug\TD2_MVC.exe.config
+c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\bin\Debug\TD2_MVC.exe
+c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\bin\Debug\TD2_MVC.pdb
+c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\bin\Debug\MySql.Data.dll
+c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.csprojResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.exe
+c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.pdb

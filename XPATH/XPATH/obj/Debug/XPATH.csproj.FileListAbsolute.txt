@@ -1,1 +1,6 @@
 C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\XPATH\XPATH\bin\Debug\XPATH.exe.config
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\XPATH\XPATH\bin\Debug\XPATH.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\XPATH\XPATH\bin\Debug\XPATH.pdb
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\XPATH\XPATH\obj\Debug\XPATH.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\XPATH\XPATH\obj\Debug\XPATH.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\XPATH\XPATH\obj\Debug\XPATH.pdb

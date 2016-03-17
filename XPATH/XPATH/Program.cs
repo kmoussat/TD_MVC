@@ -13,5 +13,23 @@ namespace XPATH
         static void Main(string[] args)
         {
         }
+
+        public static void Exo1()
+        {
+            string fileName = "filmotheque.xml";
+            XPathDocument doc = new XPathDocument(fileName);
+            XPathNavigator nav = doc.CreateNavigator();
+
+            XPathExpression expr;
+            expr = nav.Compile("/filmotheque/film");
+
+            XPathNodeIterator nodes = nav.Select(expr);
+            while( nodes.MoveNext() )
+            {
+                string 
+                Console.WriteLine("")
+            }
+
+        }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\bin\Debug\wpf3.exe.config
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\bin\Debug\wpf3.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\bin\Debug\wpf3.pdb
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\MainWindow.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\App.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3_MarkupCompile.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3_MarkupCompile.lref
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\MainWindow.baml
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3.g.resources
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3.Properties.Resources.resources
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3.csproj.GenerateResource.Cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\wpf3\wpf3\obj\Debug\wpf3.pdb

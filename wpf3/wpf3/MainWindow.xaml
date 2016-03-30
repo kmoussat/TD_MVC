@@ -1,0 +1,22 @@
+﻿<Window x:Class="wpf3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf3"
+        mc:Ignorable="d"
+        Title="Carré fou" Height="350" Width="525">
+    <Grid>
+        <DockPanel>
+
+            <Canvas Name="canvas1" Height="250" VerticalAlignment="Top" HorizontalAlignment="Left" Width="275" Background="Yellow" Margin="10">
+                <Rectangle Name="Rect" Fill="red"  Height="100" Canvas.Left="0" Stroke="Black" Canvas.Top="0" Width="100"/>
+            </Canvas>
+        </DockPanel> 
+
+        
+       
+    
+        <Button Content="Bouger" HorizontalAlignment="Left" Margin="349,45,0,0" VerticalAlignment="Top" Width="133" Height="32" Click="Button_Click"/>
+    </Grid>
+</Window>

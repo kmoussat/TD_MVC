@@ -1,0 +1,14 @@
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\bin\Debug\Wpf.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\bin\Debug\Wpf.pdb
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\App.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\MainWindow.baml
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Wpf\Wpf\obj\Debug\Wpf.pdb

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Paires.Properties
+namespace JeuCartes.Properties
 {
 
 

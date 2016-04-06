@@ -13,17 +13,17 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Paires
+namespace JeuCartes
 {
     /// <summary>
     /// Logique d'interaction pour MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class JeuCartesGUI : Window
     {
 
         private CarteGUI cartePrecedente;
 
-        private void MiseAjour( CarteGUI carteActuelle)
+        public void MiseAJour( CarteGUI carteActuelle)
         {
             if( cartePrecedente == null)
             {
@@ -33,17 +33,23 @@ namespace Paires
             {
                 if( cartePrecedente.Valeur == carteActuelle.Valeur)
                 {
-
+                    cartePrecedente.Desactiver();
+                    carteActuelle.Desactiver();
+                    cartePrecedente = null;
                 }
                 else
                 {
-
+                    MessageBox.Show("Mauvaise Paire");
+                    cartePrecedente.Retourner();
+                    carteActuelle.Retourner();
+                    
                 }
+                cartePrecedente = null;
             }
         }
            
 
-        public MainWindow()
+        public JeuCartesGUI()
         {
             InitializeComponent();
 
@@ -74,7 +80,7 @@ namespace Paires
             {
                 for (int colonne = 0; colonne < nb_colonnes; colonne++)
                 {
-                    CarteGUI b = new CarteGUI(temp[i]);
+                    CarteGUI b = new CarteGUI(temp[i], this );
                     b.Content = "?";
                     i++;
                     Grid.SetRow(b, ligne);

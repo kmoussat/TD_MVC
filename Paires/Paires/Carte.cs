@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Paires
+namespace JeuCartes
 {
-    class Carte
+    public class Carte
     {
         private string valeur;
         private bool estCachee;

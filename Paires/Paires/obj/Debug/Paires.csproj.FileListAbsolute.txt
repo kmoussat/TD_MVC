@@ -1,0 +1,14 @@
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\bin\Debug\Paires.exe.config
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\bin\Debug\Paires.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\bin\Debug\Paires.pdb
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\MainWindow.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\App.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires_MarkupCompile.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires_MarkupCompile.lref
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\MainWindow.baml
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires.g.resources
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires.Properties.Resources.resources
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires.csproj.GenerateResource.Cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Paires\Paires\obj\Debug\Paires.pdb

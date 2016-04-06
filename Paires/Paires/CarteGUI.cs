@@ -21,6 +21,16 @@ namespace Paires
                 //new System.Windows.RoutedEventHandler(CarteGUI_CLick);
         }
 
+        public string Valeur
+        {
+            get { return carte.Valeur(); }
+        }
+
+        public void Desativer()
+        {
+            this.IsEnabled = false;
+        }
+
         private void CarteGUI_Click(object sender, RoutedEventArgs e)
         {
             carte.Retourner();

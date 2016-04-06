@@ -16,6 +16,7 @@ namespace Paires
         {
             this.valeur = valeur;
             this.estCachee = true;
+
         }
 
    
@@ -34,6 +35,8 @@ namespace Paires
         {
             estCachee = !estCachee;
         }
+
+
     }
 
 }

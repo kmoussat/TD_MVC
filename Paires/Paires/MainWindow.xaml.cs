@@ -20,10 +20,37 @@ namespace Paires
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        private CarteGUI cartePrecedente;
+
+        private void MiseAjour( CarteGUI carteActuelle)
+        {
+            if( cartePrecedente == null)
+            {
+                cartePrecedente = carteActuelle;
+            }
+            else
+            {
+                if( cartePrecedente.Valeur == carteActuelle.Valeur)
+                {
+
+                }
+                else
+                {
+
+                }
+            }
+        }
+           
+
         public MainWindow()
         {
             InitializeComponent();
-            this.Principal.Children.Add(CreateGrid());        }
+
+            cartePrecedente = null;
+            this.Principal.Children.Add(CreateGrid());
+           
+        }
 
             private Grid CreateGrid()
         {
@@ -62,6 +89,7 @@ namespace Paires
         }
 
       
+     
 
         static class RandomLetter
         {

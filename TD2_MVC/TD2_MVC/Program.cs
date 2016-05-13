@@ -13,6 +13,7 @@ namespace TD2_MVC
     {
         public static void Main(string[] args)
         {
+
             Console.WriteLine("Exercice 0: \n");
             exercice0();
             Console.WriteLine("Exercice 1: \n");
@@ -46,16 +47,7 @@ namespace TD2_MVC
             reader = command.ExecuteReader();
 
             /* exemple de manipulation du resultat */
-            while (reader.Read())                           // parcours ligne par ligne
-            {
-                string currentRowAsString = "";
-                for (int i = 0; i < reader.FieldCount; i++)    // parcours cellule par cellule
-                {
-                    string valueAsString = reader.GetValue(i).ToString();  // recuperation de la valeur de chaque cellule sous forme d'une string (voir cependant les differentes methodes disponibles !!)
-                    currentRowAsString += valueAsString + ", ";
-                }
-                Console.WriteLine(currentRowAsString + "\n");    // affichage de la ligne (sous forme d'une "grosse" string) sur la sortie standard
-            }
+        
 
             connection.Close();
             Console.ReadKey();
@@ -216,7 +208,7 @@ namespace TD2_MVC
             MySqlDataReader reader;
             reader = command.ExecuteReader();
 
-            
+
             {
                 reader.Read();
 
@@ -227,6 +219,7 @@ namespace TD2_MVC
                 //double prix = reader.GetInt32(1);
                 //Console.WriteLine("Prix Moyen:" + prix + "\n");
             }
+        
             else
             {
                 return;

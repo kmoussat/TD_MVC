@@ -1,0 +1,7 @@
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Temperature\Temperature\obj\Debug\App.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Temperature\Temperature\obj\Debug\MainWindow.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Temperature\Temperature\obj\Debug\VueModificationMeteo.g.cs
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Temperature\Temperature\obj\Debug\Temperature_MarkupCompile.cache
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\Temperature\Temperature\obj\Debug\Temperature_MarkupCompile.lref

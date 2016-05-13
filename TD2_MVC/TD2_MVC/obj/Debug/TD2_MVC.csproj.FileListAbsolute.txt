@@ -5,3 +5,7 @@ c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\bin\Debug\MyS
 c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.csprojResolveAssemblyReference.cache
 c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.exe
 c:\users\ken\documents\visual studio 2015\Projects\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.pdb
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\TD2_MVC\TD2_MVC\bin\Debug\TD2_MVC.exe.config
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.exe
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.pdb
+C:\Users\Ken\Documents\Visual Studio 2015\Projects\TD_MVC\TD2_MVC\TD2_MVC\obj\Debug\TD2_MVC.csprojResolveAssemblyReference.cache
